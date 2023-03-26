@@ -1,0 +1,19 @@
+img {
+  max-width: 80vw;
+  max-height: 80vh;
+  border-radius: 12px;
+}
+
+.naslov {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 50px;
+}
+
+.roots {
+  width: 100%;
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

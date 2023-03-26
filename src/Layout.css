@@ -1,0 +1,17 @@
+li {
+  list-style: none;
+}
+
+ul {
+  display: flex;
+  gap: 20px;
+  width: 100%;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+}
+.layout {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+}
